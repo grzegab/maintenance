@@ -1,2 +1,0 @@
-# ccc-php
-# maintenance
